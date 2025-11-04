@@ -1,6 +1,6 @@
 ### Data Engineering Project Portfolio (DataCamp Pro)
 
-**Objective:** Built a robust data engineering project portfolio to solidify practical skills and experience across the modern data stack, focusing on ingestion, transformation, orchestration, and cloud infrastructure.
+**Objective:** Building a data engineering project portfolio to solidify practical skills and experience across the modern data stack, focusing on ingestion, transformation, orchestration, and cloud infrastructure.
 
 **Core Technical Skills Demonstrated:**
 
